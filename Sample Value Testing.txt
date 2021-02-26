@@ -1,0 +1,24 @@
+[
+    {
+        "Age":67,
+        "Saving accounts": "None",
+        "Checking account": "little",
+        "Credit amount":1169,
+        "Duration":6,
+        "Sex":"male",
+        "Job":"2",
+        "Housing":"own",
+        "Purpose":"radio/TV"
+    },
+    {
+        "Age":30,
+        "Saving accounts": "rich",
+        "Checking account": "rich",
+        "Credit amount":500,
+        "Duration":20,
+        "Sex": "male",
+        "Job": "0",
+        "Housing": "free",
+        "Purpose": "education"
+    }
+]
